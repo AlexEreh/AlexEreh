@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexEreh
+- 👋 Hi, I’m Alexander Ereshkin!
 - 👀 I’m interested in NOTHING
 - 🌱 I’m currently learning CALCULUS
 - 💞️ I’m looking to collaborate on EXISTENTIAL CRISIS
