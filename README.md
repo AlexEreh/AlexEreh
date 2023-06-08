@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander Ereshkin!
 - 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning CALCULUS II
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on EXISTENTIAL CRISIS
 - 📫 How to reach me: YOU ARE UNABLE TO DO THAT.
 
