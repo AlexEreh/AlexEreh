@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alexander Ereshkin!
-- 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on EXISTENTIAL CRISIS
-- 📫 How to reach me: YOU ARE UNABLE TO DO THAT.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexEreh)](https://git.io/streak-stats)
 
 <!---
 AlexEreh/AlexEreh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
