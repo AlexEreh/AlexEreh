@@ -8,7 +8,6 @@ Please find some of my open-source ❄️ projects below:
 - 🏫 [CSFBRS](https://github.com/AlexEreh/CSFBRS) - An app designed to check personal grades of students.
 - 🍸 [CocktailBar](https://github.com/AlexEreh/CocktailBar) - An app where you can store different cocktails with their recipes.
 - 💬 [Messenger](https://github.com/AlexEreh/messenger) - A backend for messaging platform, where you can send messages to users, have profile, etc.
-<br/>
 
 In Brief
 --
