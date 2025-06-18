@@ -19,6 +19,9 @@ In Brief
 My activity
 --
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AlexEreh)    
