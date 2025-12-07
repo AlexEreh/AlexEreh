@@ -10,7 +10,7 @@ Please find some of my open-source ❄️ projects below:
 - 🏫 [CSFBRS](https://github.com/AlexEreh/CSFBRS) - An app designed to check personal grades of students.
 - 🍸 [CocktailBar](https://github.com/AlexEreh/CocktailBar) - An app where you can store different cocktails with their recipes.
 - 💬 [Messenger](https://github.com/AlexEreh/messenger) - A backend for messaging platform, where you can send messages to users, have profile, etc.
-- 🔍 [Packmate-Go]() - WIP. Service for packet inspection, grouping traffic by different services. Used for CTF AD competitions. Go rewrite of [original Packmate](https://gitlab.com/packmate/Packmate).
+- 🔍 [Packmate-Go]() - **WIP**. Service for packet inspection, grouping traffic by different services. Used for CTF AD competitions. Go rewrite of [original Packmate](https://gitlab.com/packmate/Packmate).
 
 Connect with me on
 --
@@ -62,6 +62,7 @@ Tech I used
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
